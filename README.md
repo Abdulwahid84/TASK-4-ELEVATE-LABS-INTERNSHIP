@@ -8,9 +8,9 @@ This project demonstrates how to build a **binary classifier** using **Logistic 
 
 ## 🛠️ Tools and Libraries Used
 - Python 3.x
-- [Pandas](https://pandas.pydata.org/) for data manipulation
-- [Scikit-learn](https://scikit-learn.org/stable/) for machine learning modeling
-- [Matplotlib](https://matplotlib.org/) for data visualization
+- [Pandas] for data manipulation
+- [Scikit-learn] for machine learning modeling
+- [Matplotlib] for data visualization
 
 ---
 
